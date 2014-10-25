@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is my Java 6 degree assignment from my first year in 2011 where I gained 90% at degree level. 
+This Boat booking system enables the user to book 7 Standard Boats, 
+5 Luxury Boats and works with while loops until all the arrays are filled. 
+It then prints a ticket confirmation out when booked and if cancelled then it doesn't. 
